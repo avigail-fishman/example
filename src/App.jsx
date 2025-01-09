@@ -11,7 +11,7 @@ function App() {
 
   return <>
     <header>
-      <h1>אתר המתכונים המדהים</h1>
+      <h1>אתר  מדהים</h1>
       <nav style={navStyle}>
         <Link to="home">דף הבית</Link>
         <Link to="about">אודות </Link>
